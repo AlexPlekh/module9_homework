@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+input,
+button {
+    width: 200px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+body * {
+    margin: 5px;
+}
